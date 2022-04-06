@@ -1,0 +1,4 @@
+---
+Dockerfile:
+  target: push
+  rebase: ['alpine:3']
